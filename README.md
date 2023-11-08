@@ -1,4 +1,5 @@
 # CyberBuddha
+
 <p>3202年了,佛祖也用互联网!  <br>
 
 还在为有事出门无法按时为<strong>佛祖上香</strong>,  <br>
